@@ -7,3 +7,7 @@ DataMapper.auto_update!
 configure :production do
   require 'newrelic_rpm'
 end
+
+get "/" do
+	erb :index
+end
