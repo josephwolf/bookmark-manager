@@ -4,3 +4,6 @@ require './lib/link.rb'
 DataMapper.finalize
 DataMapper.auto_update!
 
+configure :production do
+  require 'newrelic_rpm'
+end
