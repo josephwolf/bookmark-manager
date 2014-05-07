@@ -5,6 +5,7 @@ gem 'dm-postgres-adapter'
 gem 'shotgun'
 gem 'sinatra'
 gem "newrelic_rpm"
+gem 'database_cleaner'
 
 group :development, :test do
 	gem "rspec"
