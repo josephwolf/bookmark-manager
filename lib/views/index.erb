@@ -1,1 +1,7 @@
 <p>My name is Homestaw Wunnor and this is a website!</p>
+
+<ul>
+	<% @links.each do |link| %>
+		<li><a href="<%= link.url %>"><%= link.title %></a></li>
+	<% end %>
+</ul>

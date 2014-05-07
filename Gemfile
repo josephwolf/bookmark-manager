@@ -6,10 +6,10 @@ gem 'shotgun'
 gem 'sinatra'
 gem "newrelic_rpm"
 gem 'database_cleaner'
+gem "capybara"
 
 group :development, :test do
 	gem "rspec"
 	gem "cucumber"
-	gem "capybara"
 	gem "cucumber-sinatra"
 end

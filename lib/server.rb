@@ -12,5 +12,6 @@ configure :production do
 end
 
 get "/" do
+	@links = Link.all
 	erb :index
 end
