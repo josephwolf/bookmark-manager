@@ -87,6 +87,8 @@ GEM
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     rack (1.5.2)
+    rack-flash3 (1.0.5)
+      rack
     rack-protection (1.5.3)
       rack
     rack-test (0.6.2)
@@ -128,6 +130,7 @@ DEPENDENCIES
   dm-postgres-adapter
   launchy
   newrelic_rpm
+  rack-flash3
   rspec
   shotgun
   sinatra

@@ -8,6 +8,7 @@ gem "newrelic_rpm"
 gem 'database_cleaner'
 gem "capybara"
 gem 'bcrypt-ruby'
+gem 'rack-flash3'
 
 group :development, :test do
 	gem "rspec"

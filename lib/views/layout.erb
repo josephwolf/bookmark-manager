@@ -6,11 +6,15 @@
 		<link rel="stylesheet" type="text/css" href="/css/application.css">
 	</head>
 	<body>
-		<% if User.get(session[:user_id]) %>
-			Welcome, <%= current_user.email %>
+		<p><% if User.get(session[:user_id]) %>
+			Welcome, <%= current_user.email %>!
 		<% else %>
 			You are not signed up!
+		<% end %></p>
+		<% if flash[:notice] %>
+			<div id="notice"><%= flash[:notice] %></div>
 		<% end %>
+
 		<%= yield %>
 	</body>
 </html>

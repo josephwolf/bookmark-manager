@@ -1,0 +1,1135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"p",
+				"property"
+			],
+			[
+				"sign",
+				"sign_up"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"al",
+				"alice"
+			],
+			[
+				"A",
+				"Academy"
+			],
+			[
+				"fil",
+				"fill_in"
+			],
+			[
+				"add",
+				"add_link"
+			],
+			[
+				"ca",
+				"capybara"
+			],
+			[
+				"da",
+				"DatabaseCleaner"
+			],
+			[
+				"spec",
+				"spec_helper"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"co",
+				"coordinates"
+			],
+			[
+				"take",
+				"takeoff_from"
+			],
+			[
+				"land",
+				"land_at"
+			],
+			[
+				"spa",
+				"spaceship"
+			],
+			[
+				"weather",
+				"weatherdouble"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"sa",
+				"safe_to_take_off"
+			],
+			[
+				"no",
+				"not_to"
+			],
+			[
+				"space",
+				"spaceship"
+			],
+			[
+				"spaceshi",
+				"spaceship"
+			],
+			[
+				"spae",
+				"spaceships"
+			],
+			[
+				"spaces",
+				"spaceships"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"sta",
+				"station"
+			],
+			[
+				"has",
+				"has_bikes"
+			],
+			[
+				"bike",
+				"BikeContainer"
+			],
+			[
+				"hav",
+				"have_bike"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"broken",
+				"broken_bikes"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"re",
+				"recieve_bike"
+			],
+			[
+				"st",
+				"station"
+			],
+			[
+				"ha",
+				"have_bike"
+			],
+			[
+				"rent",
+				"rent_bike_from"
+			],
+			[
+				"to",
+				"to_not"
+			],
+			[
+				"br",
+				"broken"
+			],
+			[
+				"div",
+				"divby15"
+			],
+			[
+				"d",
+				"divby3"
+			],
+			[
+				"di",
+				"divby15"
+			],
+			[
+				"be_",
+				"be_true"
+			],
+			[
+				"nm",
+				"num"
+			],
+			[
+				"be",
+				"be_false"
+			],
+			[
+				"by",
+				"div_by_15"
+			],
+			[
+				"guess",
+				"guess_letter"
+			],
+			[
+				"gues",
+				"guessed_letters"
+			],
+			[
+				"letter",
+				"letter"
+			],
+			[
+				"ch",
+				"chomp"
+			],
+			[
+				"guess_",
+				"guess_word"
+			],
+			[
+				"gue",
+				"guess_letter"
+			],
+			[
+				"gu",
+				"guess_letter"
+			],
+			[
+				"g",
+				"guess_letter"
+			],
+			[
+				"wh",
+				"what_is_shown"
+			],
+			[
+				"fi",
+				"fizzbuzz"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"csv",
+				"csv_line"
+			],
+			[
+				"studen",
+				"student_data"
+			],
+			[
+				"un",
+				"until	until ... end"
+			],
+			[
+				"stude",
+				"student"
+			],
+			[
+				"new",
+				"new_student"
+			],
+			[
+				"input",
+				"input_students"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"i",
+				"interactive_menu"
+			],
+			[
+				"pr",
+				"print_footer"
+			],
+			[
+				"inpu",
+				"input_students"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"divi",
+				"divide_by_5"
+			],
+			[
+				"fizz",
+				"fizzbuzz"
+			],
+			[
+				"divisibl",
+				"divisible_by_5"
+			],
+			[
+				"is",
+				"is_divisible_by_15"
+			],
+			[
+				"is_divisible_by_",
+				"is_divisible_by_3"
+			],
+			[
+				"is_divis",
+				"is_divisible_by_3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/link.rb",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tag.rb",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/helpers/application.rb",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/user.rb",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/views/users/new.erb",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/server.rb",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/views/layout.erb",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/views/index.erb",
+			"settings":
+			{
+				"buffer_size": 527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/features/adding_links_spec.rb",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/link_spec.rb",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/features/listing_all_links_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "require 'spec_helper'\n\nfeature \"User signs up\" do \n\n	scenario \"when being logged out\" do\n		lambda { sign_up }.should change(User, :count).by(1)\n		expect(page).to have_content(\"Welcome, johndoe@example.com\")\n		expect(User.first.email).to eq(\"johndoe@example.com\")\n	end\n\n	def sign_up(email = \"johndoe@example.com\",\n				password = \"penislol\")\n		visit '/users/new'\n		expect(page.status_code).to eq(200)\n		fill_in :email, :with => email\n		fill_in :password, :with => password\n		click_button \"Sign up\"\n	end\n\n	scenario \"with a password that doesn't match\" do\n		lambda { sign_up('a@a.com', 'pass', 'wrong') }.should change(User, :count).by(0)\n	end\n	\n\nend",
+			"file": "spec/features/user_management_spec.rb",
+			"file_size": 644,
+			"file_write_time": 130441105250000000,
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 508.0
+	},
+	"console":
+	{
+		"height": 531.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/config.ru",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/spec/features/adding_tags_spec.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/spec/features/agging_tags_spec.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/lib/views/form.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/lib/link.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/views/index.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/spec/link_spec.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/spec/spec_helper.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/lib/server.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/.rspec",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/server.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/bookmark-manager/spec/new_spec.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/newsletter/myapp.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/newsletter/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/config.ru",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/views/thankyou.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/makepost.rb",
+		"/Users/MisterWolf/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/views/form.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/server.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/myapp.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/config.ru",
+		"/Users/MisterWolf/makersacademy/ruby/studentdir/lib/alphalist.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/thisisawebsite/readme.txt",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/views/newindex.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/lib/sudoku.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/lib/cell.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/newproject1/config.ru",
+		"/Users/MisterWolf/makersacademy/sinatra/newproject1/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/test/sudoku_test.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/test/cell_test.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-web/README.md",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku-1/lib/cell",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku/public/stylesheets/application.css",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku/lib/sudoku.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku/views/index.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku/sudoku.rb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku/config.ru",
+		"/Users/MisterWolf/makersacademy/sinatra/newproject1/views/index.erb",
+		"/Users/MisterWolf/makersacademy/sinatra/sudoku/Gemfile",
+		"/Users/MisterWolf/makersacademy/sinatra/newproject1/hello.rb",
+		"/Users/MisterWolf/makersacademy/ruby/Battleships/lib/board.rb",
+		"/Users/MisterWolf/makersacademy/rubyist-challenge/injectchallenge/lib/my_inject.rb",
+		"/Users/MisterWolf/makersacademy/rubyist-challenge/injectchallenge/spec/my_inject_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/studentdir/lib/students.csv",
+		"/Users/MisterWolf/makersacademy/rubyist-challenge/spec/my_inject_spec.rb",
+		"/Users/MisterWolf/makersacademy/rubyist-challenge/injectchallenge/my_inject.rb",
+		"/Users/MisterWolf/makersacademy/ruby/Battleships/lib/player.rb",
+		"/Users/MisterWolf/makersacademy/ruby/Battleships/spec/player_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/Battleships/spec/board_spec.rb",
+		"/Users/MisterWolf/makersacademy/iinteam/battleships/lib/board.rb",
+		"/Users/MisterWolf/makersacademy/iinteam/battleships/lib/player.rb",
+		"/Users/MisterWolf/makersacademy/iinteam/battleships/spec/player_spec.rb",
+		"/Users/MisterWolf/makersacademy/iinteam/battleships/spec/board_spec.rb",
+		"/lib/board.rb",
+		"/Users/MisterWolf/makersacademy/ruby/planeschallenge/planeschallenge/spec/weather_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/planeschallenge/planeschallenge/README.md",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/spec/vanclass_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/spec/bikeclass_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/dockclass.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/spec/dockclass_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/bike_container.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/vanclass.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/vanclass.rb",
+		"/Users/MisterWolf/makersacademy/ruby/planeschallenge/planeschallenge/spec/w",
+		"/Users/MisterWolf/makersacademy/ruby/planeschallenge/planeschallenge/lib/port.rb.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/garageclass.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/bikeclass.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/userclass.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/borisstart.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/spec/garageclass_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/spec/userclass_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/catpur.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/borisstart.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/bike.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/user.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/van.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/dock.rb",
+		"/Users/MisterWolf/makersacademy/ruby/dumping_ground/borisnotes.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/emptycontainertest.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/spec/bike_container_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/lib/readme.txt",
+		"/Users/MisterWolf/makersacademy/ruby/borisbikes/readme.txt",
+		"/Users/MisterWolf/gangstafy.rb",
+		"/Users/MisterWolf/makersacademy/ruby/hangman/hangman/hangman2",
+		"/Users/MisterWolf/makersacademy/ruby/hangman/hangman/hangman.rb",
+		"/Users/MisterWolf/makersacademy/ruby/hangman/words.txt",
+		"/Users/MisterWolf/makersacademy/ruby/hangman/hangman.rb",
+		"/Users/MisterWolf/makersacademy/ruby/hangman/hangman2",
+		"/Users/MisterWolf/Documents/purrcomputer.rb",
+		"/Users/MisterWolf/makersacademy/ruby/studentdir/spec/studentdir_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/fizzbuzz/lib/fizzbuzz.rb",
+		"/Users/MisterWolf/makersacademy/ruby/fizzbuzz/spec/fizzbuzz_spec.rb",
+		"/Users/MisterWolf/makersacademy/ruby/studentdir/alphalist.rb",
+		"/Users/MisterWolf/makersacademy/ruby/studentdir/mortgage.rb",
+		"/Users/MisterWolf/makersacademy/ruby/fizzbuzz/rspec/fizzbuzz_rspec.rb",
+		"/Users/MisterWolf/.git-pairing-prompt1.sh",
+		"/Users/MisterWolf/.git-pairing-prompt.sh",
+		"/Users/MisterWolf/makersacademy/unixoid-checklist/my/public/files/text-files-count.txt",
+		"/Users/MisterWolf/makersacademy/unixoid-checklist/my/private/files/t-vars.env"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@user",
+			"links",
+			":cell, :locals=>{:cell_index => row*27+box*3+cell_row*9+cell",
+			"column ",
+			"row ",
+			"clear?",
+			"plane",
+			"fixed_bikes",
+			"end",
+			"sep",
+			"end",
+			"Male",
+			"to_sym",
+			"Febuary",
+			"February",
+			"students",
+			"input",
+			"feMale",
+			"male"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/MisterWolf/makersacademy/sinatra/bookmark-manager"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/link.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/tag.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/helpers/application.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/views/users/new.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/server.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								986,
+								986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/views/layout.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "lib/views/index.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "spec/features/adding_links_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								841
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "spec/link_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "spec/spec_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "spec/features/listing_all_links_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "spec/features/user_management_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.326462225833,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 290.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"lib/views/index.erb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
